@@ -2,9 +2,6 @@
 <h3 align="center">Passionate Web Developer | Transforming Ideas into Interactive Experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-canvas-coder&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-canvas-coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-canvas-coder" alt="cyber-canvas-coder" /></a> </p>
-
 - 📫 How to reach me **sayantanmondal11122003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
